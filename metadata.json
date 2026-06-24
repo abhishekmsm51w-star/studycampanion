@@ -1,0 +1,6 @@
+{
+  "name": "AI Study & Productivity Companion",
+  "description": "An AI-powered study companion featuring dynamic deadline management, smart study task recommendations, interactive flashcard decks, Pomodoro focus timer, and smart notepad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
